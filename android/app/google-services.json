@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "661948777385",
+    "project_id": "constituency-b105f",
+    "storage_bucket": "constituency-b105f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661948777385:android:50e2c64ff283a331ff3ab8",
+        "android_client_info": {
+          "package_name": "com.example.admin_portal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661948777385-f4a5qgo75nd06ufjemdm4uvgfardrnf6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGQ3hy79khiK_CLD6TsrfEvHBBYQjyyAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661948777385-f4a5qgo75nd06ufjemdm4uvgfardrnf6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "661948777385-95c26ob5klii1e8uq9j8paf5kd49c0ga.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.adminPortal"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
